@@ -180,3 +180,16 @@ Gitmojies:
     git restore --staged fichier-a-retirer.txt
     git commit -m "Nouveau message de commit (sans le fichier)"
     ```
+
+## NOTE 
+
+| Category                         | Percentage | Tests | Crash |
+|----------------------------------|------------|-------|-------|
+| 01 - Usage of required functions | 100%       | 3/3   | x     |
+| 02 - Error handling              | 100%       | 6/6   | x     |
+| 03 - Working as intended         | 100%       | 8/8   | x     |
+| End scores                       | 100%       | 17/17 | x     |
+
+
+Grade A Médailles
+
